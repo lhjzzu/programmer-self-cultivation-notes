@@ -1,5 +1,4 @@
-# programmer-self-cultivation-notes
-程序员的自我修养笔记
+程序员自我修养读书笔记
 
 [1-温故而知新](./documents/1-温故而知新.md)
 
